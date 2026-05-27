@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# QA / working logs (kept locally in companion_inventory but never tracked here)
+.qa_*
+.alignment_*
+.cn_qa_*
+.translation_*
+.read_backup_*
+.read_cn_backup_*
+
+# LaTeX intermediates (just in case anyone drops them here)
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Python
+__pycache__/
+*.pyc
+
+# Other
+*.tmp
