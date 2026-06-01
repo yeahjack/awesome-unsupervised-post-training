@@ -105,29 +105,29 @@ Methods that fail any check are routed to **adjacent** (kept in the inventory, *
 
 | Method | Venue | Update target | Notes | PDF |
 |--------|-------|---------------|-------|-----|
-| **CPT-LM** | arXiv 2023 | parameters | [read](read/ke2023cptlm.md) | [pdf](pdfs/ke2023cptlm.pdf) |
-| **Simple CPT** | arXiv 2024 | parameters | [read](read/qian2024simplescalable.md) | [pdf](pdfs/qian2024simplescalable.pdf) |
+| **CPT-LM** | ICLR 2023 | parameters | [read](read/ke2023cptlm.md) | [pdf](pdfs/ke2023cptlm.pdf) |
+| **Simple CPT** | TMLR 2024 | parameters | [read](read/qian2024simplescalable.md) | [pdf](pdfs/qian2024simplescalable.pdf) |
 | **LangAdapt CPT** | ACL 2025 | parameters | [read](read/elhady2025languageadapt.md) | [pdf](pdfs/elhady2025languageadapt.pdf) |
 | **Stability-Gap CPT** | ACL 2025 | parameters | [read](read/guo2025stabilitygap.md) | [pdf](pdfs/guo2025stabilitygap.pdf) |
 | **ReplayAlign CPT** | NeurIPS 2025 Workshop | parameters | [read](read/abbes2025replayalign.md) | [pdf](pdfs/abbes2025replayalign.pdf) |
 | **E2-LLM** | ACL Findings 2024 | parameters | [read](read/liu2024e2llm.md) | [pdf](pdfs/liu2024e2llm.pdf) |
-| **Data Eng 128K** | arXiv 2024 | parameters | [read](read/fu2024dataengineering.md) | [pdf](pdfs/fu2024dataengineering.pdf) |
-| **LongContext Scaling** | arXiv 2023 | parameters | [read](read/xiong2024longcontext.md) | [pdf](pdfs/xiong2024longcontext.pdf) |
+| **Data Eng 128K** | ICML 2024 | parameters | [read](read/fu2024dataengineering.md) | [pdf](pdfs/fu2024dataengineering.pdf) |
+| **LongContext Scaling** | NAACL 2024 | parameters | [read](read/xiong2024longcontext.md) | [pdf](pdfs/xiong2024longcontext.pdf) |
 | **TLM** | ICML 2025 | parameters | [read](read/hu2025test.md) | [pdf](pdfs/hu2025test.pdf) |
 | **TTT-NN** | ICLR 2024 | parameters | [read](read/jang2024tttnn.md) | [pdf](pdfs/jang2024tttnn.pdf) |
-| **Long TTT** | arXiv 2025 | parameters | [read](read/bansal2026qttt.md) | [pdf](pdfs/bansal2026qttt.pdf) |
+| **Long TTT** | ICLR 2026 | parameters | [read](read/bansal2026qttt.md) | [pdf](pdfs/bansal2026qttt.pdf) |
 | **In-Place TTT** | ICLR 2026 | parameters | [read](read/feng2026inplace.md) | [pdf](pdfs/feng2026inplace.pdf) |
 | **EM-FT** | NeurIPS 2025 | parameters | [read](read/agarwal2025unreasonable.md) | [pdf](pdfs/agarwal2025unreasonable.pdf) |
-| **One-shot EM** | arXiv 2025 | parameters | [read](read/gao2025oneshot.md) | [pdf](pdfs/gao2025oneshot.pdf) |
+| **One-shot EM** | ICML 2026 | parameters | [read](read/gao2025oneshot.md) | [pdf](pdfs/gao2025oneshot.pdf) |
 | **EM-RL(seq)** | NeurIPS 2025 | parameters | [read](read/agarwal2025unreasonable.md) | [pdf](pdfs/agarwal2025unreasonable.pdf) |
 | **EM-RL(tok)** | NeurIPS 2025 | parameters | [read](read/agarwal2025unreasonable.md) | [pdf](pdfs/agarwal2025unreasonable.pdf) |
 | **RENT** | arXiv 2025 | parameters | [read](read/prabhudesai2025rent.md) | [pdf](pdfs/prabhudesai2025rent.pdf) |
 | **RLSC** | arXiv 2025 | parameters | [read](read/li2025rlsc.md) | [pdf](pdfs/li2025rlsc.pdf) |
 | **SLOT** | arXiv 2025 | sample-local state | [read](read/hu2025slot.md) | [pdf](pdfs/hu2025slot.pdf) |
 | **SyTTA** | arXiv 2025 | sample-local state (LoRA) | [read](read/xu2025you.md) | [pdf](pdfs/xu2025you.pdf) |
-| **Model Whisper** | arXiv 2025 | sample-local state (steering) | [read](read/kang2025modelwhisper.md) | [pdf](pdfs/kang2025modelwhisper.pdf) |
+| **Model Whisper** | AAAI 2026 | sample-local state (steering) | [read](read/kang2025modelwhisper.md) | [pdf](pdfs/kang2025modelwhisper.pdf) |
 | **ULDTTA** | arXiv 2026 | sample-local state (layer-wise) | [read](read/xu2026uldtta.md) | [pdf](pdfs/xu2026uldtta.pdf) |
-| **VIGOR** | arXiv 2026 | parameters | [read](read/wen2026verifierfreerlllmsintrinsic.md) | [pdf](pdfs/wen2026verifierfreerlllmsintrinsic.pdf) |
+| **VIGOR** | ACL Findings 2026 | parameters | [read](read/wen2026verifierfreerlllmsintrinsic.md) | [pdf](pdfs/wen2026verifierfreerlllmsintrinsic.pdf) |
 | **Latent-GRPO** | arXiv 2026 | parameters | [read](read/zhang2026silencejudgereinforcementlearning.md) | [pdf](pdfs/zhang2026silencejudgereinforcementlearning.pdf) |
 | **SSL-R1** | arXiv 2026 | parameters | [read](read/xie2026sslr1selfsupervisedvisualreinforcement.md) | [pdf](pdfs/xie2026sslr1selfsupervisedvisualreinforcement.pdf) |
 
@@ -150,20 +150,20 @@ Methods that fail any check are routed to **adjacent** (kept in the inventory, *
 
 | Method | Venue | Update target | Notes | PDF |
 |--------|-------|---------------|-------|-----|
-| **EMPO** | arXiv 2025 | parameters | [read](read/zhang2025rightquestion.md) | [pdf](pdfs/zhang2025rightquestion.pdf) |
+| **EMPO** | NeurIPS 2025 | parameters | [read](read/zhang2025rightquestion.md) | [pdf](pdfs/zhang2025rightquestion.pdf) |
 | **Intuitor** | ICLR 2026 | parameters | [read](read/zhao2025intuitor.md) | [pdf](pdfs/zhao2025intuitor.pdf) |
-| **CoVo** | arXiv 2025 | parameters | [read](read/zhang2025covo.md) | [pdf](pdfs/zhang2025covo.pdf) |
+| **CoVo** | NeurIPS 2025 | parameters | [read](read/zhang2025covo.md) | [pdf](pdfs/zhang2025covo.pdf) |
 | **Co-rewarding** | ICLR 2026 | parameters | [read](read/zhang2026corewarding.md) | [pdf](pdfs/zhang2026corewarding.pdf) |
-| **EvoLMM** | arXiv 2025 | parameters | [read](read/thawakar2025evolmm.md) | [pdf](pdfs/thawakar2025evolmm.pdf) |
+| **EvoLMM** | CVPR 2026 | parameters | [read](read/thawakar2025evolmm.md) | [pdf](pdfs/thawakar2025evolmm.pdf) |
 | **TTRL** | NeurIPS 2025 | parameters | [read](read/zuo2025ttrl.md) | [pdf](pdfs/zuo2025ttrl.pdf) |
 | **ETTRL** | arXiv 2025 | parameters | [read](read/liu2025ettrl.md) | [pdf](pdfs/liu2025ettrl.pdf) |
-| **ECHO** | arXiv 2026 | parameters | [read](read/zhao2026echo.md) | [pdf](pdfs/zhao2026echo.pdf) |
+| **ECHO** | ICML 2026 | parameters | [read](read/zhao2026echo.md) | [pdf](pdfs/zhao2026echo.pdf) |
 | **SPINE** | arXiv 2025 | parameters | [read](read/wu2025spine.md) | [pdf](pdfs/wu2025spine.pdf) |
 | **Self-Harmony** | ICLR 2026 | parameters | [read](read/wang2026selfharmony.md) | [pdf](pdfs/wang2026selfharmony.pdf) |
 | **DARE** | arXiv 2026 | parameters | [read](read/du2026dare.md) | [pdf](pdfs/du2026dare.pdf) |
-| **SCOPE** | arXiv 2025 | parameters | [read](read/wang2025scope.md) | [pdf](pdfs/wang2025scope.pdf) |
+| **SCOPE** | ACL 2026 | parameters | [read](read/wang2025scope.md) | [pdf](pdfs/wang2025scope.pdf) |
 | **COMPASS** | arXiv 2025 | parameters | [read](read/xing2025compass.md) | [pdf](pdfs/xing2025compass.pdf) |
-| **SCRL** | arXiv 2026 | parameters | [read](read/yan2026scrl.md) | [pdf](pdfs/yan2026scrl.pdf) |
+| **SCRL** | ACL 2026 | parameters | [read](read/yan2026scrl.md) | [pdf](pdfs/yan2026scrl.pdf) |
 | **RLCCF** | arXiv 2025 | parameters | [read](read/yuan2025rlccf.md) | [pdf](pdfs/yuan2025rlccf.pdf) |
 | **RoiRL** | NeurIPS 2025 Workshop | parameters | [read](read/arzhantsev2025roirl.md) | [pdf](pdfs/arzhantsev2025roirl.pdf) |
 | **EVOL-RL** | arXiv 2025 | parameters | [read](read/zhou2025evolrl.md) | [pdf](pdfs/zhou2025evolrl.pdf) |
@@ -188,21 +188,21 @@ Methods that fail any check are routed to **adjacent** (kept in the inventory, *
 | **KBAlign** | EMNLP Findings 2025 | parameters | [read](read/zeng2025kbalign.md) | [pdf](pdfs/zeng2025kbalign.pdf) |
 | **CYCLE-INSTRUCT** | EMNLP 2025 | parameters | [read](read/shen2025cycleinstruct.md) | [pdf](pdfs/shen2025cycleinstruct.pdf) |
 | **Self-Improve** | EMNLP 2023 | parameters | [read](read/huang2023selfimprove.md) | [pdf](pdfs/huang2023selfimprove.pdf) |
-| **Quiet-STaR** | arXiv 2024 | parameters | [read](read/zelikman2024quietstar.md) | [pdf](pdfs/zelikman2024quietstar.pdf) |
+| **Quiet-STaR** | ICLR 2024 | parameters | [read](read/zelikman2024quietstar.md) | [pdf](pdfs/zelikman2024quietstar.pdf) |
 | **Confident ST** | EMNLP Findings 2025 | parameters | [read](read/wang2025confidentreasoning.md) | [pdf](pdfs/wang2025confidentreasoning.pdf) |
-| **GENIUS** | arXiv 2025 | parameters | [read](read/xu2025genius.md) | [pdf](pdfs/xu2025genius.pdf) |
+| **GENIUS** | ACL 2025 | parameters | [read](read/xu2025genius.md) | [pdf](pdfs/xu2025genius.pdf) |
 | **LRM Self-Train** | arXiv 2025 | parameters | [read](read/shi2025lrmselftrain.md) | [pdf](pdfs/shi2025lrmselftrain.pdf) |
 | **DTE** | EMNLP 2025 | parameters | [read](read/liu2025dte.md) | [pdf](pdfs/liu2025dte.pdf) |
-| **LongMagpie** | arXiv 2025 | parameters | [read](read/gao2025longmagpie.md) | [pdf](pdfs/gao2025longmagpie.pdf) |
+| **LongMagpie** | NeurIPS 2025 | parameters | [read](read/gao2025longmagpie.md) | [pdf](pdfs/gao2025longmagpie.pdf) |
 | **Long Self-Improve** | arXiv 2024 | parameters | [read](read/wang2024longselfimprove.md) | [pdf](pdfs/wang2024longselfimprove.pdf) |
-| **TTCS** | arXiv 2026 | parameters | [read](read/yang2026ttcs.md) | [pdf](pdfs/yang2026ttcs.pdf) |
+| **TTCS** | ICLR 2026 Workshop LLA | parameters | [read](read/yang2026ttcs.md) | [pdf](pdfs/yang2026ttcs.pdf) |
 | **DiSCTT** | arXiv 2026 | parameters | [read](read/moradi2026disctt.md) | [pdf](pdfs/moradi2026disctt.pdf) |
 | **TTSR** | arXiv 2026 | parameters | [read](read/he2026ttsr.md) | [pdf](pdfs/he2026ttsr.pdf) |
-| **R-Zero** | arXiv 2025 | parameters | [read](read/huang2026rzero.md) | [pdf](pdfs/huang2026rzero.pdf) |
+| **R-Zero** | ICLR 2026 | parameters | [read](read/huang2026rzero.md) | [pdf](pdfs/huang2026rzero.pdf) |
 | **ScPO** | ICML 2025 | parameters | [read](read/prasad2025scpo.md) | [pdf](pdfs/prasad2025scpo.pdf) |
 | **MACA** | arXiv 2025 | parameters | [read](read/samanta2025maca.md) | [pdf](pdfs/samanta2025maca.pdf) |
 | **LongPO** | ICLR 2025 | parameters | [read](read/chen2025longpo.md) | [pdf](pdfs/chen2025longpo.pdf) |
-| **RLSF** | arXiv 2025 | parameters | [read](read/vanniekerk2025rlsf.md) | [pdf](pdfs/vanniekerk2025rlsf.pdf) |
+| **RLSF** | ICCV 2025 | parameters | [read](read/vanniekerk2025rlsf.md) | [pdf](pdfs/vanniekerk2025rlsf.pdf) |
 | **G-Zero** | arXiv 2026 | parameters | [read](read/huang2026gzeroselfplayopenendedgeneration.md) | [pdf](pdfs/huang2026gzeroselfplayopenendedgeneration.pdf) |
 | **QueST** | arXiv 2026 | sample-local state (LoRA) | [read](read/song2026queryconditionedtesttimeselftraininglarge.md) | [pdf](pdfs/song2026queryconditionedtesttimeselftraininglarge.pdf) |
 | **V-Zero** | arXiv 2026 | parameters | [read](read/wang2026vzeroselfimprovingmultimodalreasoning.md) | [pdf](pdfs/wang2026vzeroselfimprovingmultimodalreasoning.pdf) |
@@ -220,9 +220,9 @@ Methods that fail any check are routed to **adjacent** (kept in the inventory, *
 |--------|-------|---------------|-------|-----|
 | **Self-Rewarding LM** | ICML 2024 | parameters | [read](read/yuan2024selfrewarding.md) | [pdf](pdfs/yuan2024selfrewarding.pdf) |
 | **CREAM** | ICLR 2025 | parameters | [read](read/wang2024cream.md) | [pdf](pdfs/wang2024cream.pdf) |
-| **Meta-Rewarding** | arXiv 2024 | parameters | [read](read/wu2024metarewarding.md) | [pdf](pdfs/wu2024metarewarding.pdf) |
+| **Meta-Rewarding** | EMNLP 2025 | parameters | [read](read/wu2024metarewarding.md) | [pdf](pdfs/wu2024metarewarding.pdf) |
 | **Temporal SRLM** | arXiv 2025 | parameters | [read](read/jin2025temporalselfrewarding.md) | [pdf](pdfs/jin2025temporalselfrewarding.pdf) |
-| **CoNL** | arXiv 2026 | parameters | [read](read/sui2026conl.md) | [pdf](pdfs/sui2026conl.pdf) |
+| **CoNL** | ICML 2026 | parameters | [read](read/sui2026conl.md) | [pdf](pdfs/sui2026conl.pdf) |
 | **RLME** | arXiv 2026 | parameters | [read](read/rentschler2026rlme.md) | [pdf](pdfs/rentschler2026rlme.pdf) |
 | **Meta-TTRL** | arXiv 2026 | parameters | [read](read/tan2026metattrl.md) | [pdf](pdfs/tan2026metattrl.pdf) |
 | **AERO** | arXiv 2026 | parameters | [read](read/gao2026aeroautonomousevolutionaryreasoning.md) | [pdf](pdfs/gao2026aeroautonomousevolutionaryreasoning.pdf) |
@@ -239,12 +239,12 @@ Closely related but **fail at least one boundary check**. Kept in the inventory 
 |--------|-------|-------|---------------|-------|-----|
 | **EM-INF** | NeurIPS 2025 | `B1` | no update inference time | [read](read/agarwal2025unreasonable.md) | [pdf](pdfs/agarwal2025unreasonable.pdf) |
 | **T3RL** | arXiv 2026 | `B3` | verifier or tool assisted | [read](read/liao2026t3rl.md) | [pdf](pdfs/liao2026t3rl.pdf) |
-| **Absolute Zero** | arXiv 2025 | `B3` | verifier or tool assisted | [read](read/zhao2025absolutezero.md) | [pdf](pdfs/zhao2025absolutezero.pdf) |
+| **Absolute Zero** | NeurIPS 2025 | `B3` | verifier or tool assisted | [read](read/zhao2025absolutezero.md) | [pdf](pdfs/zhao2025absolutezero.pdf) |
 | **Concise ST** | ACL Findings 2025 | `B3` | verifier or tool assisted | [read](read/wang2025concisereasoning.md) | [pdf](pdfs/wang2025concisereasoning.pdf) |
-| **LEPA** | arXiv 2025 | `B3` | verifier or tool assisted | [read](read/zhang2025lepa.md) | [pdf](pdfs/zhang2025lepa.pdf) |
+| **LEPA** | ICLR 2025 | `B3` | verifier or tool assisted | [read](read/zhang2025lepa.md) | [pdf](pdfs/zhang2025lepa.pdf) |
 | **Self-Instruct** | ACL 2023 | `B3` | seed or human supervised | [read](read/wang2023selfinstruct.md) | [pdf](pdfs/wang2023selfinstruct.pdf) |
-| **Instruction-Backtranslation** | arXiv 2023 | `B3` | seed or human supervised | [read](read/li2024instructionbacktranslation.md) | [pdf](pdfs/li2024instructionbacktranslation.pdf) |
-| **CSR** | arXiv 2024 | `B4` | external evaluator | [read](read/zhou2024csr.md) | [pdf](pdfs/zhou2024csr.pdf) |
+| **Instruction-Backtranslation** | ICLR 2024 | `B3` | seed or human supervised | [read](read/li2024instructionbacktranslation.md) | [pdf](pdfs/li2024instructionbacktranslation.pdf) |
+| **CSR** | NeurIPS 2024 | `B4` | external evaluator | [read](read/zhou2024csr.md) | [pdf](pdfs/zhou2024csr.pdf) |
 
 ## 📝 Prose-only mentions (6)
 

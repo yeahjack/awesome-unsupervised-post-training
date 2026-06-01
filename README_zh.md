@@ -106,29 +106,29 @@ UPT = 在预训练之后进行的过程,**更新模型的参数 / 适配器 / �
 
 | 方法 | 出处 | 更新对象 | 英文笔记 | 中文笔记 | PDF |
 |------|------|----------|----------|----------|-----|
-| **CPT-LM** | arXiv 2023 | parameters | [阅读](read/ke2023cptlm.md) | [阅读](read_cn/ke2023cptlm.md) | [pdf](pdfs/ke2023cptlm.pdf) |
-| **Simple CPT** | arXiv 2024 | parameters | [阅读](read/qian2024simplescalable.md) | [阅读](read_cn/qian2024simplescalable.md) | [pdf](pdfs/qian2024simplescalable.pdf) |
+| **CPT-LM** | ICLR 2023 | parameters | [阅读](read/ke2023cptlm.md) | [阅读](read_cn/ke2023cptlm.md) | [pdf](pdfs/ke2023cptlm.pdf) |
+| **Simple CPT** | TMLR 2024 | parameters | [阅读](read/qian2024simplescalable.md) | [阅读](read_cn/qian2024simplescalable.md) | [pdf](pdfs/qian2024simplescalable.pdf) |
 | **LangAdapt CPT** | ACL 2025 | parameters | [阅读](read/elhady2025languageadapt.md) | [阅读](read_cn/elhady2025languageadapt.md) | [pdf](pdfs/elhady2025languageadapt.pdf) |
 | **Stability-Gap CPT** | ACL 2025 | parameters | [阅读](read/guo2025stabilitygap.md) | [阅读](read_cn/guo2025stabilitygap.md) | [pdf](pdfs/guo2025stabilitygap.pdf) |
 | **ReplayAlign CPT** | NeurIPS 2025 Workshop | parameters | [阅读](read/abbes2025replayalign.md) | [阅读](read_cn/abbes2025replayalign.md) | [pdf](pdfs/abbes2025replayalign.pdf) |
 | **E2-LLM** | ACL Findings 2024 | parameters | [阅读](read/liu2024e2llm.md) | [阅读](read_cn/liu2024e2llm.md) | [pdf](pdfs/liu2024e2llm.pdf) |
-| **Data Eng 128K** | arXiv 2024 | parameters | [阅读](read/fu2024dataengineering.md) | [阅读](read_cn/fu2024dataengineering.md) | [pdf](pdfs/fu2024dataengineering.pdf) |
-| **LongContext Scaling** | arXiv 2023 | parameters | [阅读](read/xiong2024longcontext.md) | [阅读](read_cn/xiong2024longcontext.md) | [pdf](pdfs/xiong2024longcontext.pdf) |
+| **Data Eng 128K** | ICML 2024 | parameters | [阅读](read/fu2024dataengineering.md) | [阅读](read_cn/fu2024dataengineering.md) | [pdf](pdfs/fu2024dataengineering.pdf) |
+| **LongContext Scaling** | NAACL 2024 | parameters | [阅读](read/xiong2024longcontext.md) | [阅读](read_cn/xiong2024longcontext.md) | [pdf](pdfs/xiong2024longcontext.pdf) |
 | **TLM** | ICML 2025 | parameters | [阅读](read/hu2025test.md) | [阅读](read_cn/hu2025test.md) | [pdf](pdfs/hu2025test.pdf) |
 | **TTT-NN** | ICLR 2024 | parameters | [阅读](read/jang2024tttnn.md) | [阅读](read_cn/jang2024tttnn.md) | [pdf](pdfs/jang2024tttnn.pdf) |
-| **Long TTT** | arXiv 2025 | parameters | [阅读](read/bansal2026qttt.md) | [阅读](read_cn/bansal2026qttt.md) | [pdf](pdfs/bansal2026qttt.pdf) |
+| **Long TTT** | ICLR 2026 | parameters | [阅读](read/bansal2026qttt.md) | [阅读](read_cn/bansal2026qttt.md) | [pdf](pdfs/bansal2026qttt.pdf) |
 | **In-Place TTT** | ICLR 2026 | parameters | [阅读](read/feng2026inplace.md) | [阅读](read_cn/feng2026inplace.md) | [pdf](pdfs/feng2026inplace.pdf) |
 | **EM-FT** | NeurIPS 2025 | parameters | [阅读](read/agarwal2025unreasonable.md) | [阅读](read_cn/agarwal2025unreasonable.md) | [pdf](pdfs/agarwal2025unreasonable.pdf) |
-| **One-shot EM** | arXiv 2025 | parameters | [阅读](read/gao2025oneshot.md) | [阅读](read_cn/gao2025oneshot.md) | [pdf](pdfs/gao2025oneshot.pdf) |
+| **One-shot EM** | ICML 2026 | parameters | [阅读](read/gao2025oneshot.md) | [阅读](read_cn/gao2025oneshot.md) | [pdf](pdfs/gao2025oneshot.pdf) |
 | **EM-RL(seq)** | NeurIPS 2025 | parameters | [阅读](read/agarwal2025unreasonable.md) | [阅读](read_cn/agarwal2025unreasonable.md) | [pdf](pdfs/agarwal2025unreasonable.pdf) |
 | **EM-RL(tok)** | NeurIPS 2025 | parameters | [阅读](read/agarwal2025unreasonable.md) | [阅读](read_cn/agarwal2025unreasonable.md) | [pdf](pdfs/agarwal2025unreasonable.pdf) |
 | **RENT** | arXiv 2025 | parameters | [阅读](read/prabhudesai2025rent.md) | [阅读](read_cn/prabhudesai2025rent.md) | [pdf](pdfs/prabhudesai2025rent.pdf) |
 | **RLSC** | arXiv 2025 | parameters | [阅读](read/li2025rlsc.md) | [阅读](read_cn/li2025rlsc.md) | [pdf](pdfs/li2025rlsc.pdf) |
 | **SLOT** | arXiv 2025 | sample-local state | [阅读](read/hu2025slot.md) | [阅读](read_cn/hu2025slot.md) | [pdf](pdfs/hu2025slot.pdf) |
 | **SyTTA** | arXiv 2025 | sample-local state (LoRA) | [阅读](read/xu2025you.md) | [阅读](read_cn/xu2025you.md) | [pdf](pdfs/xu2025you.pdf) |
-| **Model Whisper** | arXiv 2025 | sample-local state (steering) | [阅读](read/kang2025modelwhisper.md) | [阅读](read_cn/kang2025modelwhisper.md) | [pdf](pdfs/kang2025modelwhisper.pdf) |
+| **Model Whisper** | AAAI 2026 | sample-local state (steering) | [阅读](read/kang2025modelwhisper.md) | [阅读](read_cn/kang2025modelwhisper.md) | [pdf](pdfs/kang2025modelwhisper.pdf) |
 | **ULDTTA** | arXiv 2026 | sample-local state (layer-wise) | [阅读](read/xu2026uldtta.md) | [阅读](read_cn/xu2026uldtta.md) | [pdf](pdfs/xu2026uldtta.pdf) |
-| **VIGOR** | arXiv 2026 | parameters | [阅读](read/wen2026verifierfreerlllmsintrinsic.md) | [阅读](read_cn/wen2026verifierfreerlllmsintrinsic.md) | [pdf](pdfs/wen2026verifierfreerlllmsintrinsic.pdf) |
+| **VIGOR** | ACL Findings 2026 | parameters | [阅读](read/wen2026verifierfreerlllmsintrinsic.md) | [阅读](read_cn/wen2026verifierfreerlllmsintrinsic.md) | [pdf](pdfs/wen2026verifierfreerlllmsintrinsic.pdf) |
 | **Latent-GRPO** | arXiv 2026 | parameters | [阅读](read/zhang2026silencejudgereinforcementlearning.md) | [阅读](read_cn/zhang2026silencejudgereinforcementlearning.md) | [pdf](pdfs/zhang2026silencejudgereinforcementlearning.pdf) |
 | **SSL-R1** | arXiv 2026 | parameters | [阅读](read/xie2026sslr1selfsupervisedvisualreinforcement.md) | [阅读](read_cn/xie2026sslr1selfsupervisedvisualreinforcement.md) | [pdf](pdfs/xie2026sslr1selfsupervisedvisualreinforcement.pdf) |
 
@@ -151,20 +151,20 @@ UPT = 在预训练之后进行的过程,**更新模型的参数 / 适配器 / �
 
 | 方法 | 出处 | 更新对象 | 英文笔记 | 中文笔记 | PDF |
 |------|------|----------|----------|----------|-----|
-| **EMPO** | arXiv 2025 | parameters | [阅读](read/zhang2025rightquestion.md) | [阅读](read_cn/zhang2025rightquestion.md) | [pdf](pdfs/zhang2025rightquestion.pdf) |
+| **EMPO** | NeurIPS 2025 | parameters | [阅读](read/zhang2025rightquestion.md) | [阅读](read_cn/zhang2025rightquestion.md) | [pdf](pdfs/zhang2025rightquestion.pdf) |
 | **Intuitor** | ICLR 2026 | parameters | [阅读](read/zhao2025intuitor.md) | [阅读](read_cn/zhao2025intuitor.md) | [pdf](pdfs/zhao2025intuitor.pdf) |
-| **CoVo** | arXiv 2025 | parameters | [阅读](read/zhang2025covo.md) | [阅读](read_cn/zhang2025covo.md) | [pdf](pdfs/zhang2025covo.pdf) |
+| **CoVo** | NeurIPS 2025 | parameters | [阅读](read/zhang2025covo.md) | [阅读](read_cn/zhang2025covo.md) | [pdf](pdfs/zhang2025covo.pdf) |
 | **Co-rewarding** | ICLR 2026 | parameters | [阅读](read/zhang2026corewarding.md) | [阅读](read_cn/zhang2026corewarding.md) | [pdf](pdfs/zhang2026corewarding.pdf) |
-| **EvoLMM** | arXiv 2025 | parameters | [阅读](read/thawakar2025evolmm.md) | [阅读](read_cn/thawakar2025evolmm.md) | [pdf](pdfs/thawakar2025evolmm.pdf) |
+| **EvoLMM** | CVPR 2026 | parameters | [阅读](read/thawakar2025evolmm.md) | [阅读](read_cn/thawakar2025evolmm.md) | [pdf](pdfs/thawakar2025evolmm.pdf) |
 | **TTRL** | NeurIPS 2025 | parameters | [阅读](read/zuo2025ttrl.md) | [阅读](read_cn/zuo2025ttrl.md) | [pdf](pdfs/zuo2025ttrl.pdf) |
 | **ETTRL** | arXiv 2025 | parameters | [阅读](read/liu2025ettrl.md) | [阅读](read_cn/liu2025ettrl.md) | [pdf](pdfs/liu2025ettrl.pdf) |
-| **ECHO** | arXiv 2026 | parameters | [阅读](read/zhao2026echo.md) | [阅读](read_cn/zhao2026echo.md) | [pdf](pdfs/zhao2026echo.pdf) |
+| **ECHO** | ICML 2026 | parameters | [阅读](read/zhao2026echo.md) | [阅读](read_cn/zhao2026echo.md) | [pdf](pdfs/zhao2026echo.pdf) |
 | **SPINE** | arXiv 2025 | parameters | [阅读](read/wu2025spine.md) | [阅读](read_cn/wu2025spine.md) | [pdf](pdfs/wu2025spine.pdf) |
 | **Self-Harmony** | ICLR 2026 | parameters | [阅读](read/wang2026selfharmony.md) | [阅读](read_cn/wang2026selfharmony.md) | [pdf](pdfs/wang2026selfharmony.pdf) |
 | **DARE** | arXiv 2026 | parameters | [阅读](read/du2026dare.md) | [阅读](read_cn/du2026dare.md) | [pdf](pdfs/du2026dare.pdf) |
-| **SCOPE** | arXiv 2025 | parameters | [阅读](read/wang2025scope.md) | [阅读](read_cn/wang2025scope.md) | [pdf](pdfs/wang2025scope.pdf) |
+| **SCOPE** | ACL 2026 | parameters | [阅读](read/wang2025scope.md) | [阅读](read_cn/wang2025scope.md) | [pdf](pdfs/wang2025scope.pdf) |
 | **COMPASS** | arXiv 2025 | parameters | [阅读](read/xing2025compass.md) | [阅读](read_cn/xing2025compass.md) | [pdf](pdfs/xing2025compass.pdf) |
-| **SCRL** | arXiv 2026 | parameters | [阅读](read/yan2026scrl.md) | [阅读](read_cn/yan2026scrl.md) | [pdf](pdfs/yan2026scrl.pdf) |
+| **SCRL** | ACL 2026 | parameters | [阅读](read/yan2026scrl.md) | [阅读](read_cn/yan2026scrl.md) | [pdf](pdfs/yan2026scrl.pdf) |
 | **RLCCF** | arXiv 2025 | parameters | [阅读](read/yuan2025rlccf.md) | [阅读](read_cn/yuan2025rlccf.md) | [pdf](pdfs/yuan2025rlccf.pdf) |
 | **RoiRL** | NeurIPS 2025 Workshop | parameters | [阅读](read/arzhantsev2025roirl.md) | [阅读](read_cn/arzhantsev2025roirl.md) | [pdf](pdfs/arzhantsev2025roirl.pdf) |
 | **EVOL-RL** | arXiv 2025 | parameters | [阅读](read/zhou2025evolrl.md) | [阅读](read_cn/zhou2025evolrl.md) | [pdf](pdfs/zhou2025evolrl.pdf) |
@@ -189,21 +189,21 @@ UPT = 在预训练之后进行的过程,**更新模型的参数 / 适配器 / �
 | **KBAlign** | EMNLP Findings 2025 | parameters | [阅读](read/zeng2025kbalign.md) | [阅读](read_cn/zeng2025kbalign.md) | [pdf](pdfs/zeng2025kbalign.pdf) |
 | **CYCLE-INSTRUCT** | EMNLP 2025 | parameters | [阅读](read/shen2025cycleinstruct.md) | [阅读](read_cn/shen2025cycleinstruct.md) | [pdf](pdfs/shen2025cycleinstruct.pdf) |
 | **Self-Improve** | EMNLP 2023 | parameters | [阅读](read/huang2023selfimprove.md) | [阅读](read_cn/huang2023selfimprove.md) | [pdf](pdfs/huang2023selfimprove.pdf) |
-| **Quiet-STaR** | arXiv 2024 | parameters | [阅读](read/zelikman2024quietstar.md) | [阅读](read_cn/zelikman2024quietstar.md) | [pdf](pdfs/zelikman2024quietstar.pdf) |
+| **Quiet-STaR** | ICLR 2024 | parameters | [阅读](read/zelikman2024quietstar.md) | [阅读](read_cn/zelikman2024quietstar.md) | [pdf](pdfs/zelikman2024quietstar.pdf) |
 | **Confident ST** | EMNLP Findings 2025 | parameters | [阅读](read/wang2025confidentreasoning.md) | [阅读](read_cn/wang2025confidentreasoning.md) | [pdf](pdfs/wang2025confidentreasoning.pdf) |
-| **GENIUS** | arXiv 2025 | parameters | [阅读](read/xu2025genius.md) | [阅读](read_cn/xu2025genius.md) | [pdf](pdfs/xu2025genius.pdf) |
+| **GENIUS** | ACL 2025 | parameters | [阅读](read/xu2025genius.md) | [阅读](read_cn/xu2025genius.md) | [pdf](pdfs/xu2025genius.pdf) |
 | **LRM Self-Train** | arXiv 2025 | parameters | [阅读](read/shi2025lrmselftrain.md) | [阅读](read_cn/shi2025lrmselftrain.md) | [pdf](pdfs/shi2025lrmselftrain.pdf) |
 | **DTE** | EMNLP 2025 | parameters | [阅读](read/liu2025dte.md) | [阅读](read_cn/liu2025dte.md) | [pdf](pdfs/liu2025dte.pdf) |
-| **LongMagpie** | arXiv 2025 | parameters | [阅读](read/gao2025longmagpie.md) | [阅读](read_cn/gao2025longmagpie.md) | [pdf](pdfs/gao2025longmagpie.pdf) |
+| **LongMagpie** | NeurIPS 2025 | parameters | [阅读](read/gao2025longmagpie.md) | [阅读](read_cn/gao2025longmagpie.md) | [pdf](pdfs/gao2025longmagpie.pdf) |
 | **Long Self-Improve** | arXiv 2024 | parameters | [阅读](read/wang2024longselfimprove.md) | [阅读](read_cn/wang2024longselfimprove.md) | [pdf](pdfs/wang2024longselfimprove.pdf) |
-| **TTCS** | arXiv 2026 | parameters | [阅读](read/yang2026ttcs.md) | [阅读](read_cn/yang2026ttcs.md) | [pdf](pdfs/yang2026ttcs.pdf) |
+| **TTCS** | ICLR 2026 Workshop LLA | parameters | [阅读](read/yang2026ttcs.md) | [阅读](read_cn/yang2026ttcs.md) | [pdf](pdfs/yang2026ttcs.pdf) |
 | **DiSCTT** | arXiv 2026 | parameters | [阅读](read/moradi2026disctt.md) | [阅读](read_cn/moradi2026disctt.md) | [pdf](pdfs/moradi2026disctt.pdf) |
 | **TTSR** | arXiv 2026 | parameters | [阅读](read/he2026ttsr.md) | [阅读](read_cn/he2026ttsr.md) | [pdf](pdfs/he2026ttsr.pdf) |
-| **R-Zero** | arXiv 2025 | parameters | [阅读](read/huang2026rzero.md) | [阅读](read_cn/huang2026rzero.md) | [pdf](pdfs/huang2026rzero.pdf) |
+| **R-Zero** | ICLR 2026 | parameters | [阅读](read/huang2026rzero.md) | [阅读](read_cn/huang2026rzero.md) | [pdf](pdfs/huang2026rzero.pdf) |
 | **ScPO** | ICML 2025 | parameters | [阅读](read/prasad2025scpo.md) | [阅读](read_cn/prasad2025scpo.md) | [pdf](pdfs/prasad2025scpo.pdf) |
 | **MACA** | arXiv 2025 | parameters | [阅读](read/samanta2025maca.md) | [阅读](read_cn/samanta2025maca.md) | [pdf](pdfs/samanta2025maca.pdf) |
 | **LongPO** | ICLR 2025 | parameters | [阅读](read/chen2025longpo.md) | [阅读](read_cn/chen2025longpo.md) | [pdf](pdfs/chen2025longpo.pdf) |
-| **RLSF** | arXiv 2025 | parameters | [阅读](read/vanniekerk2025rlsf.md) | [阅读](read_cn/vanniekerk2025rlsf.md) | [pdf](pdfs/vanniekerk2025rlsf.pdf) |
+| **RLSF** | ICCV 2025 | parameters | [阅读](read/vanniekerk2025rlsf.md) | [阅读](read_cn/vanniekerk2025rlsf.md) | [pdf](pdfs/vanniekerk2025rlsf.pdf) |
 | **G-Zero** | arXiv 2026 | parameters | [阅读](read/huang2026gzeroselfplayopenendedgeneration.md) | [阅读](read_cn/huang2026gzeroselfplayopenendedgeneration.md) | [pdf](pdfs/huang2026gzeroselfplayopenendedgeneration.pdf) |
 | **QueST** | arXiv 2026 | sample-local state (LoRA) | [阅读](read/song2026queryconditionedtesttimeselftraininglarge.md) | [阅读](read_cn/song2026queryconditionedtesttimeselftraininglarge.md) | [pdf](pdfs/song2026queryconditionedtesttimeselftraininglarge.pdf) |
 | **V-Zero** | arXiv 2026 | parameters | [阅读](read/wang2026vzeroselfimprovingmultimodalreasoning.md) | [阅读](read_cn/wang2026vzeroselfimprovingmultimodalreasoning.md) | [pdf](pdfs/wang2026vzeroselfimprovingmultimodalreasoning.pdf) |
@@ -221,9 +221,9 @@ UPT = 在预训练之后进行的过程,**更新模型的参数 / 适配器 / �
 |------|------|----------|----------|----------|-----|
 | **Self-Rewarding LM** | ICML 2024 | parameters | [阅读](read/yuan2024selfrewarding.md) | [阅读](read_cn/yuan2024selfrewarding.md) | [pdf](pdfs/yuan2024selfrewarding.pdf) |
 | **CREAM** | ICLR 2025 | parameters | [阅读](read/wang2024cream.md) | [阅读](read_cn/wang2024cream.md) | [pdf](pdfs/wang2024cream.pdf) |
-| **Meta-Rewarding** | arXiv 2024 | parameters | [阅读](read/wu2024metarewarding.md) | [阅读](read_cn/wu2024metarewarding.md) | [pdf](pdfs/wu2024metarewarding.pdf) |
+| **Meta-Rewarding** | EMNLP 2025 | parameters | [阅读](read/wu2024metarewarding.md) | [阅读](read_cn/wu2024metarewarding.md) | [pdf](pdfs/wu2024metarewarding.pdf) |
 | **Temporal SRLM** | arXiv 2025 | parameters | [阅读](read/jin2025temporalselfrewarding.md) | [阅读](read_cn/jin2025temporalselfrewarding.md) | [pdf](pdfs/jin2025temporalselfrewarding.pdf) |
-| **CoNL** | arXiv 2026 | parameters | [阅读](read/sui2026conl.md) | [阅读](read_cn/sui2026conl.md) | [pdf](pdfs/sui2026conl.pdf) |
+| **CoNL** | ICML 2026 | parameters | [阅读](read/sui2026conl.md) | [阅读](read_cn/sui2026conl.md) | [pdf](pdfs/sui2026conl.pdf) |
 | **RLME** | arXiv 2026 | parameters | [阅读](read/rentschler2026rlme.md) | [阅读](read_cn/rentschler2026rlme.md) | [pdf](pdfs/rentschler2026rlme.pdf) |
 | **Meta-TTRL** | arXiv 2026 | parameters | [阅读](read/tan2026metattrl.md) | [阅读](read_cn/tan2026metattrl.md) | [pdf](pdfs/tan2026metattrl.pdf) |
 | **AERO** | arXiv 2026 | parameters | [阅读](read/gao2026aeroautonomousevolutionaryreasoning.md) | [阅读](read_cn/gao2026aeroautonomousevolutionaryreasoning.md) | [pdf](pdfs/gao2026aeroautonomousevolutionaryreasoning.pdf) |
@@ -240,12 +240,12 @@ UPT = 在预训练之后进行的过程,**更新模型的参数 / 适配器 / �
 |------|------|--------|----------|----------|----------|-----|
 | **EM-INF** | NeurIPS 2025 | `B1` | 无更新推理时 | [阅读](read/agarwal2025unreasonable.md) | [阅读](read_cn/agarwal2025unreasonable.md) | [pdf](pdfs/agarwal2025unreasonable.pdf) |
 | **T3RL** | arXiv 2026 | `B3` | 验证器/工具辅助 | [阅读](read/liao2026t3rl.md) | [阅读](read_cn/liao2026t3rl.md) | [pdf](pdfs/liao2026t3rl.pdf) |
-| **Absolute Zero** | arXiv 2025 | `B3` | 验证器/工具辅助 | [阅读](read/zhao2025absolutezero.md) | [阅读](read_cn/zhao2025absolutezero.md) | [pdf](pdfs/zhao2025absolutezero.pdf) |
+| **Absolute Zero** | NeurIPS 2025 | `B3` | 验证器/工具辅助 | [阅读](read/zhao2025absolutezero.md) | [阅读](read_cn/zhao2025absolutezero.md) | [pdf](pdfs/zhao2025absolutezero.pdf) |
 | **Concise ST** | ACL Findings 2025 | `B3` | 验证器/工具辅助 | [阅读](read/wang2025concisereasoning.md) | [阅读](read_cn/wang2025concisereasoning.md) | [pdf](pdfs/wang2025concisereasoning.pdf) |
-| **LEPA** | arXiv 2025 | `B3` | 验证器/工具辅助 | [阅读](read/zhang2025lepa.md) | [阅读](read_cn/zhang2025lepa.md) | [pdf](pdfs/zhang2025lepa.pdf) |
+| **LEPA** | ICLR 2025 | `B3` | 验证器/工具辅助 | [阅读](read/zhang2025lepa.md) | [阅读](read_cn/zhang2025lepa.md) | [pdf](pdfs/zhang2025lepa.pdf) |
 | **Self-Instruct** | ACL 2023 | `B3` | 种子/人工监督 | [阅读](read/wang2023selfinstruct.md) | [阅读](read_cn/wang2023selfinstruct.md) | [pdf](pdfs/wang2023selfinstruct.pdf) |
-| **Instruction-Backtranslation** | arXiv 2023 | `B3` | 种子/人工监督 | [阅读](read/li2024instructionbacktranslation.md) | [阅读](read_cn/li2024instructionbacktranslation.md) | [pdf](pdfs/li2024instructionbacktranslation.pdf) |
-| **CSR** | arXiv 2024 | `B4` | 外部评估器 | [阅读](read/zhou2024csr.md) | [阅读](read_cn/zhou2024csr.md) | [pdf](pdfs/zhou2024csr.pdf) |
+| **Instruction-Backtranslation** | ICLR 2024 | `B3` | 种子/人工监督 | [阅读](read/li2024instructionbacktranslation.md) | [阅读](read_cn/li2024instructionbacktranslation.md) | [pdf](pdfs/li2024instructionbacktranslation.pdf) |
+| **CSR** | NeurIPS 2024 | `B4` | 外部评估器 | [阅读](read/zhou2024csr.md) | [阅读](read_cn/zhou2024csr.md) | [pdf](pdfs/zhou2024csr.pdf) |
 
 ## 📝 仅文中提及(6)
 
