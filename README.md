@@ -4,7 +4,7 @@
 <p align="center">
   <em>Audit-trail companion for the survey</em><br>
   <strong><em>"Unsupervised Post-Training of Foundation Models: A Survey"</em></strong>
-  <br><sub>EMNLP 2026 submission</sub>
+  <br><sub>Accepted at EMNLP 2026</sub>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
   <br>
   <a href="#license"><img src="https://img.shields.io/badge/notes_license-CC--BY_4.0-yellow?style=flat-square" alt="license"></a>
   <img src="https://img.shields.io/badge/coverage-Jan_2023_→_May_2026-blueviolet?style=flat-square" alt="coverage window">
-  <img src="https://img.shields.io/badge/venue-EMNLP_2026_(submission)-red?style=flat-square" alt="venue">
+  <img src="https://img.shields.io/badge/venue-EMNLP_2026_(accepted)-brightgreen?style=flat-square" alt="venue">
   <img src="https://img.shields.io/badge/status-living_document-success?style=flat-square" alt="status">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
 </p>
@@ -403,5 +403,5 @@ Suggested workflow for **proposing a new method**:
 
 ---
 
-<p align="center"><sub><em>Companion to "Unsupervised Post-Training of Foundation Models: A Survey", EMNLP 2026 submission · Coverage frozen May 2026 · Last index refresh: 2026-05-27.</em></sub></p>
+<p align="center"><sub><em>Companion to "Unsupervised Post-Training of Foundation Models: A Survey", accepted at EMNLP 2026 · Coverage frozen May 2026 · Last index refresh: 2026-05-27.</em></sub></p>
 <p align="center"><a href="#-unsupervised-post-training-of-foundation-models">⬆ Back to top</a></p>

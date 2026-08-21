@@ -4,7 +4,7 @@
 <p align="center">
   <em>综述的审计追溯配套</em><br>
   <strong><em>《基础模型的无监督后训练:综述》</em></strong>
-  <br><sub>EMNLP 2026 投稿</sub>
+  <br><sub>已被 EMNLP 2026 录用</sub>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
   <br>
   <a href="#-许可"><img src="https://img.shields.io/badge/笔记许可-CC--BY_4.0-yellow?style=flat-square" alt="许可"></a>
   <img src="https://img.shields.io/badge/覆盖范围-2023年1月_→_2026年5月-blueviolet?style=flat-square" alt="覆盖窗口">
-  <img src="https://img.shields.io/badge/出处-EMNLP_2026_投稿-red?style=flat-square" alt="出处">
+  <img src="https://img.shields.io/badge/出处-EMNLP_2026_已录用-brightgreen?style=flat-square" alt="出处">
   <img src="https://img.shields.io/badge/状态-持续维护-success?style=flat-square" alt="状态">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
 </p>
@@ -404,5 +404,5 @@ awesome-unsupervised-post-training/
 
 ---
 
-<p align="center"><sub><em>《基础模型的无监督后训练:综述》(EMNLP 2026 投稿)的配套 · 覆盖范围冻结于 2026 年 5 月 · 索引最近刷新:2026-05-27。</em></sub></p>
+<p align="center"><sub><em>已被 EMNLP 2026 录用的《基础模型的无监督后训练:综述》配套 · 覆盖范围冻结于 2026 年 5 月 · 索引最近刷新:2026-05-27。</em></sub></p>
 <p align="center"><a href="#-基础模型的无监督后训练">⬆ 返回顶部</a></p>
